@@ -1,0 +1,28 @@
+{
+  "name": "knigge",
+  "version": "0.0.1",
+  "description": "A forker class for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atd-schubert/node-knigge.git"
+  },
+  "keywords": [
+    "fork",
+    "child-process",
+    "multi-threading",
+    "worker"
+  ],
+  "author": "Arne Schubert <atd.schubert@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atd-schubert/node-knigge/issues"
+  },
+  "homepage": "https://github.com/atd-schubert/node-knigge#readme",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
